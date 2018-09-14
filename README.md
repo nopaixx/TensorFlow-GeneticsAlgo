@@ -24,3 +24,5 @@ Evolution->Evolution is the step that is generated between one generation and an
 
 There is a varied range of problems to which the application of genetic algorithms can be useful between them if we want to optimize the weights of a neural network. For practical purposes, it is especially useful when the train dataset could be diferent at each step specially if we want to teach a network to make full decisions based on past decisions(outputs) of the same network.
 
+Can we teach a network to drive a car? 
+For example the network receives inputs from distance sensors to an obstacle and the network can make several decisions (braking, turning, accelerating etc.). We must bear in mind that each observation in the train dataset is completely dynamic because each observation the distances of the sesons will be different based on the past decisions of the network.
