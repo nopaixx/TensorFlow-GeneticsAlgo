@@ -2,7 +2,9 @@
 Optimize TF layers weigth with Genetics Algorithms
 
 Gradient descending agorithm are well known for optimizing the weights of neural networks and finding the solution to converge into an optimal solution.
-Usually the derivative is applied to a single output value and then the decision is gradually improved through an improvement in the optimization function (or target).
+Usually the derivative is applied to a single output value and then the decision is gradually improved through an improvement in the optimization function (or target). 
+The purpose of this mini-project is to demonstrate that we can optimize the weights of a net in TensorFlow (keras) using a basic genetic algorithm initiated from a random state.
+
 
 # About Genetics Algorithms
 
@@ -38,6 +40,10 @@ Theoretically and as demonstrated by google with the Alpha Zero version the syst
 This is with genetic algorithms we can train a network to make complex decisions such as (buy,sell, parcial close, hedges etc..) all based on the current state of command control of the trading platform.
 (FOR MORE INFORMATION ABOUT FIANACIAL STOCK WITH GENETICS ALGORHITMS PLEASE READ Project https://github.com/nopaixx/MaketsGA)
 
+
+
+# About train.py 
+For easy implementation code we have based ourselves on the kaggle competition TAG SALT IDENTIFICATION (https://www.kaggle.com/c/tgs-salt-identification-challenge)
 
 
 
