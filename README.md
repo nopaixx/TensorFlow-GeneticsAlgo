@@ -11,7 +11,10 @@ Genetic algorithms are based on the genetic process of biologically living organ
 # Basic concepts about GA
 
 Genes->Parameter to be optimized
+
 Species->Each species contains a certain amount of genes all together offer a solution to a specific problem.
+
 Population-->Population is a group of species all together perform a generation
+
 Evolution->Evolution is the step that is generated between one generation and another, where there is a mixture of genes that generates new species and new species are born with a certain mutation.
 
