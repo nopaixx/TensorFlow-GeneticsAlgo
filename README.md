@@ -59,7 +59,7 @@ Pay attention to:
 
 # Conclusions
 
--As main objective of the document we have been able to optimize a neural network (in the case of the example Convultional) without applying the method of Gradient descenend.
+-As main objective of the document we have been able to optimize a neural network (in the case of the example Convultional) without applying the method of Gradient descen.
 
 -We have talked about how we can use genetic algorithms to train neural networks and how we can use neural networks from a different point of view.
 
