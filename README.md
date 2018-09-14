@@ -45,7 +45,13 @@ This is with genetic algorithms we can train a network to make complex decisions
 # About train.py 
 For easy implementation code we have based ourselves on the kaggle competition TAG SALT IDENTIFICATION (https://www.kaggle.com/c/tgs-salt-identification-challenge)
 
+Pay attention to functions:
 
+-parallel_scoring ->Perform a custom fitness funcion higher value best
+
+-runtournament ->Perform a random natural seleccion of two best species to join
+
+-model_crossover  ->Join best two species in random way and apply a muttation
 
 
 
