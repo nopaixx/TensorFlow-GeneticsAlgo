@@ -47,15 +47,25 @@ This is with genetic algorithms we can train a network to make complex decisions
 # About train.py 
 For easy implementation code we have based ourselves on the kaggle competition TAG SALT IDENTIFICATION (https://www.kaggle.com/c/tgs-salt-identification-challenge)
 
-Pay attention to functions:
+Pay attention to:
 
--parallel_scoring ->Perform a custom fitness funcion higher value best
+-def parallel_scoring ->Perform a custom fitness funcion higher value best
 
--runtournament ->Perform a random natural seleccion of two best species to join
+-def runtournament ->Perform a random natural seleccion of two best species to join
 
--model_crossover  ->Join best two species in random way and apply a muttation
+-def model_crossover  ->Join best two species in random way and apply a muttation
 
+-Check not model.fit() transaction is executed at any time
 
+# Conclusions
+
+-As main objective of the document we have been able to optimize a neural network (in the case of the example Convultional) without applying the method of Gradient descenend.
+
+-We have talked about how we can use genetic algorithms to train neural networks and how we can use neural networks from a different point of view.
+
+-No doubt about the use of GA in neural networks presents an advantage for certain types of problem in which for example the traing set observations are dynamic and varied in each training episode
+
+-I think this may be the beginning of a more complex and optimized library to develop advanced quantitative trading models where the predictive model does not consist of a buy or sell signal in itself, but the model consists of a complex trading system in itself.
 
 
  
