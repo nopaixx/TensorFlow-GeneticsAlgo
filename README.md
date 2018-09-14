@@ -67,7 +67,9 @@ Pay attention to:
 
 -No doubt about the use of GA in neural networks presents an advantage for certain types of problem in which for example the traing set observations are dynamic and varied in each training episode
 
--I think this may be the beginning of a more complex and optimized library to develop advanced quantitative trading models where the predictive model does not consist of a buy or sell signal in itself, but the model consists of a complex trading system in itself.
+-This can be the beginning of a more complex and optimized library to develop advanced quantitative trading models where the predictive model does not consist of a buy or sell signal in itself, but the model consists of a complex trading system in itself.
+
+-I think that this may constitute the beginning of a promosing and completely self-adaptable trading system and discover automated trading systems more efficient and not limited by human knowledge.
 
 
  
