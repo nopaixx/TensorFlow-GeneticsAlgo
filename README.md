@@ -61,6 +61,8 @@ Pay attention to:
 
 -As main objective of the document we have been able to optimize a neural network (in the case of the example Convultional) without applying the method of Gradient descence.
 
+-We have set the basis for developing more complex loss functions without the use of tensors
+
 -We have talked about how we can use genetic algorithms to train neural networks and how we can use neural networks from a different point of view.
 
 -No doubt about the use of GA in neural networks presents an advantage for certain types of problem in which for example the traing set observations are dynamic and varied in each training episode
