@@ -30,8 +30,11 @@ For example the network receives inputs from distance sensors to an obstacle and
 
 # Can we teach a network to deploy a full (and unkown) Financial Stocks Maket strategy.
 Usually quantitave traders download financial timeseries then apply a treatment to the data if necessary (normalization PCA etc...). Finally they train a network(python/R etc..) normally with the objective of reducing the error between the prediction and the real value and finally they take a decision(automatic or not) based on model prediction.
+
 Please note that the main problem quantitative traders face when training a network with static observations for the financial markets are completely exposed to high volatility, which is why most quantitative traders lose they money. They not only need a predictive model of a value but they also need a complex and operative system that is able to manage the capital effectively.
+
 Theoretically and as demonstrated by google with the Alpha Zero version the system can learn in a more efficient way (and sometimes surprisingly) if it is not conditioned by human knowledge itself.
+
 This is with genetic algorithms we can train a network to make complex decisions such as (buy sell, close parciles, hedges) all based on the current state of command control of the trading platform.
 (FOR MORE INFORMATION ABOUT FIANACIAL STOCK WITH GENETICS ALGORHITMS PLEASE READ Project https://github.com/nopaixx/MaketsGA)
 
