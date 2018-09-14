@@ -22,3 +22,5 @@ Evolution->Evolution is the step that is generated between one generation and an
 
 # Where it is useful to apply genetic algorithms?
 
+There is a varied range of problems to which the application of genetic algorithms can be useful between them if we want to optimize the weights of a neural network. For practical purposes, it is especially useful when the train dataset could be diferent at each step specially if we want to teach a network to make full decisions based on past decisions(outputs) of the same network.
+
