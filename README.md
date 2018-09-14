@@ -37,7 +37,7 @@ Usually quantitave traders download financial timeseries then apply a treatment 
 
 Please note that the main problem of quantitative traders when training a network with static observations for the financial markets are completely exposed to high volatility, which is why most quantitative traders lose they money. They not only need a predictive model of a value. They also need a complex and operative system that is able to manage the capital effectively.
 
-Theoretically and as demonstrated by google with the Alpha Zero the system can learn in a more efficient way (and sometimes surprisingly) IF LEARNING PROCES IS NOT CONDITIONED BY LIMITED HUMAN KWNOLADGE ITSELF.
+Theoretically and as demonstrated by Google with the "Alpha Zero AI" the net can learn in a more efficient way (and sometimes surprisingly) IF LEARNING PROCES IS NOT CONDITIONED/LIMITED BY HUMAN KWNOLADGE.
 
 This is with genetic algorithms we can train a network to make complex decisions such as (buy,sell, parcial close, hedges etc..) all based on the current state of command controls of the trading platform and past net desicions.
 (FOR MORE INFORMATION ABOUT FIANACIAL STOCK WITH GENETICS ALGORHITMS PLEASE READ Project https://github.com/nopaixx/MaketsGA)
