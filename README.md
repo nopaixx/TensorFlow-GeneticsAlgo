@@ -35,7 +35,7 @@ Please note that the main problem quantitative traders face when training a netw
 
 Theoretically and as demonstrated by google with the Alpha Zero version the system can learn in a more efficient way (and sometimes surprisingly) if it is not conditioned by human knowledge itself.
 
-This is with genetic algorithms we can train a network to make complex decisions such as (buy sell, close parciles, hedges) all based on the current state of command control of the trading platform.
+This is with genetic algorithms we can train a network to make complex decisions such as (buy,sell, parcial close, hedges etc..) all based on the current state of command control of the trading platform.
 (FOR MORE INFORMATION ABOUT FIANACIAL STOCK WITH GENETICS ALGORHITMS PLEASE READ Project https://github.com/nopaixx/MaketsGA)
 
 
