@@ -18,7 +18,7 @@ Population-->Population is a group of species all together perform a generation
 
 Evolution->Evolution is the step that is generated between one generation and another, where there is a mixture of genes that generates new species and new species are born with a certain mutation.
 
-![alt text](/GA grafic.png)
+![alt text](https://github.com/nopaixx/TensorFlow-GeneticsAlgo/blob/master/GA%20grafic.jpg)
 
 # Where it is useful to apply genetic algorithms?
 
